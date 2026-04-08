@@ -1,0 +1,5 @@
+name: MaceReveal
+version: ${project.version}
+main: com.macereveal.MaceReveal
+api-version: '1.21'
+description: Reveals mace crafter coordinates and spawns a chest after 10 minutes
